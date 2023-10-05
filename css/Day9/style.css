@@ -1,0 +1,120 @@
+.bgimage{
+    height: 1000px;
+    width: 100%;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/e89c9679-2f5f-491d-924c-c58924a8ee4b/8ec27a1d-02ce-4489-b320-a95106906f5d/IN-en-20221121-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    margin: 0px;
+    opacity: 4;
+    z-index: -1;
+}
+.logo{
+    background-color: red;
+    color:black ;
+    height: 4H0px;
+    width: 150px;
+    position: absolute;
+}
+/* .main{ */
+    /* background-color: aquamarine; */
+    
+
+   
+
+.side{
+    padding-left: 70%; 
+}
+.opt{
+    width: 100px;
+    height: 40px;
+
+}
+.input2{
+    background-color: red;
+left:85%;
+position: absolute;
+width: 100px;
+height: 40px;
+
+    
+}
+.mid{
+    padding-left: 32%;
+    top: 350px;
+    position: absolute;
+    }
+h1{
+    color: aliceblue;
+    font-size: 63px;
+    width: 650px;
+    text-align:center
+    /* font-family: syste, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif; */
+}
+h4{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:400px;
+    margin-top: 10px;
+    /* text-align: center; */
+}
+p{
+    color: aliceblue;
+    width: 900px;
+    font-size: 19px;
+    font-weight: 400px;
+    margin-top: 15px;
+    /* margin-left: 110px; */
+    /* text-align-last: center; */
+
+}
+/* .opt1{ */
+    
+    /* position: absolute; */
+    /* padding-left: 30%; */
+    /* top: 550px; */
+
+.input{
+    position: absolute;
+    height: 50px;
+    width: 490px;
+    /* padding-left: 10%; */
+    left: 500px;
+    top: 700px;
+}
+.input1{
+    height: 54px;
+    width: 150px;
+    background-color: red;
+    left: 1000px;
+    top: 700px;
+    position: absolute;
+
+}
+summary{
+    background-color: blue;
+    color: antiquewhite;
+    /* height: 100px; */
+    cursor: pointer;
+
+}
+.srikanth{
+border-radius: 10px;
+}
+article{
+    display: flex;
+    width: 100%;
+    height: 350px;
+}
+article>div{
+    width: 50%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    transition: all.10s ease;
+    overflow: hidden;
+}
+article>div:hover{
+    flex-shrink: 0;
+}
+article div img{
+    width: 100%;
+    height: 100%;
+}

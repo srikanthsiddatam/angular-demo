@@ -1,0 +1,23 @@
+#sri{
+    height: 500px;
+    width: 400px;
+    background-color: blue;
+    color: brown;
+    border:2px solid yellowgreen ;
+
+}
+.srik{
+    color: aqua;
+    height: 300px;
+    width: 200px;
+    border: 2px solid red;
+    background-color: red;
+}
+.srika{
+    height: 100px;
+    width: 150px;
+    border: 2px solid green;
+    background-color: aliceblue;
+    color: red;
+
+}

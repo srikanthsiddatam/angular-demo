@@ -1,0 +1,51 @@
+/* selector */
+*{
+    margin:0;
+    text-transform: capitalize;
+}
+#form{
+    width: 50%;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border: dashed;
+}
+.demo{
+    width: 400px;
+    height: 500px;
+    border: solid;
+    color: black;
+    text-align: center;
+    background-color:yellowgreen;
+}
+blockquote{
+    width: 50%;
+    height: 70%;
+    background: red;
+}
+main{
+    height: 1000px;
+    width: 70%;
+    background-color: chartreuse;
+}
+header{
+
+    text-align: center;
+    background-color: darkcyan;
+    color: black;
+}
+
+nav{
+    text-align: center;
+    word-spacing: 50px;
+}
+aside{
+    width: 50%;
+    background-color: aliceblue ;
+    border: solid;
+}
+section{
+    height: 50%;
+    width: 50%;
+    background-image: url(../wine1.jpg);
+}

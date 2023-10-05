@@ -1,0 +1,38 @@
+
+a:hover{
+    color: black;
+    background-color: blueviolet;
+    text-shadow: 1px 2px 1px;
+}
+input:focus{
+    color: blue;
+}
+input:checked{
+    /* accent-color: blue; */
+ color: brown;
+}
+.demo{
+    color: blueviolet;
+}
+/* psedo element */
+p::first-line{
+    text-shadow: 2px 1px 2px;
+    background-color: brown;
+    color: aquamarine;
+}
+blockquote::first-letter{
+    color: chartreuse;
+}
+i::before{
+    content: "💕😘😊😍";
+}
+i::after{
+    content: "❤️💕😊👍🤷‍♀️🎶😎😉";
+}
+i::selection{
+    color: blue;
+    background-color: rgb(18, 163, 115);
+}
+li::marker{
+    color: red;
+}

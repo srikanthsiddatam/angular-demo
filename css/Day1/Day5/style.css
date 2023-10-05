@@ -1,0 +1,33 @@
+#contain{
+    background-image: url(../WhatsApp\ Image\ 2022-10-06\ at\ 1.19.45\ PM.jpeg);
+    background-attachment: fixed;
+    opacity: 0.4;
+    color: blue;
+
+    height: 700px;
+    
+    background-color: chartreuse;
+    justify-content: space-around;
+    align-items: center;
+ display: flex;
+    
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: azure;
+    border: solid;
+     position: sticky;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: azure;
+    border: solid;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: azure;
+    border: solid;
+}

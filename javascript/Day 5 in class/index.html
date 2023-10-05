@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    
+    <!-- <h1 class="sri">hello world</h1> -->
+
+    <!-- <h1 class="sri">hello world
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo alias qui 
+         adipisci, tempore deserunt quibusdam officia, eius temporibus maiores
+         ullam dolore, minima quam recusandae voluptatum. Animi ratione sapien
+         te veniam fugiat.
+    </h1>
+
+    <h1 class="sri">hello world
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo alias qui 
+         adipisci, tempore deserunt quibusdam officia, eius temporibus maiores
+         ullam dolore, minima quam recusandae voluptatum. Animi ratione sapien
+         te veniam fugiat.
+    </h1>
+
+    <h1 class="sri">hello world
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo alias qui 
+         adipisci, tōl̥ōl̥ōempore deserunt quibusdam officia, eius temporibus maiores
+         ullam dolore, minima quam recusandae voluptatum. Animi ratione sapien
+         te veniam fugiat.
+    </h1>
+
+      -->
+<button id="share" onclick="share_screen()">
+    share screen
+ </button>
+    
+     <button id="sree" onclick="sum()">
+        OTP
+     </button>
+    
+    <script>
+        d=document.querySelector("#share");
+        console.console.log(d);
+        console.log(window);
+        function share_screen(){
+            window.navigator.mediaDevices.getDisplayMedia()
+
+        }
+        if(window.navigator.onLine)
+        {
+              document.write("online😂😂😂😂")
+        }
+        else{
+            document.write("offline")
+        
+        }
+        function sum(){
+            
+            
+var a=Math.floor(Math.random() *10000).toString(6);
+console.log(a)
+document.body.style.background=`#${a}`
+
+        }
+        
+        
+
+
+    </script>
+</body>
+</html>

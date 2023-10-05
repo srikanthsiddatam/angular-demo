@@ -1,0 +1,5 @@
+C:\Users\sidda\OneDrive\Desktop\web technology\css\obj\Debug\net6.0\css.csproj.AssemblyReference.cache
+C:\Users\sidda\OneDrive\Desktop\web technology\css\obj\Debug\net6.0\css.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidda\OneDrive\Desktop\web technology\css\obj\Debug\net6.0\css.AssemblyInfoInputs.cache
+C:\Users\sidda\OneDrive\Desktop\web technology\css\obj\Debug\net6.0\css.AssemblyInfo.cs
+C:\Users\sidda\OneDrive\Desktop\web technology\css\obj\Debug\net6.0\css.csproj.CoreCompileInputs.cache

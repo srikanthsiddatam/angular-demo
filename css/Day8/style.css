@@ -1,0 +1,95 @@
+.section{
+    background-color: burlywood;
+    height: 100px;
+    width: 100%;
+}
+.article{
+   padding-left: 100px;
+   display: flex;
+   list-style: none;
+   flex-direction: row;
+   border: 5px black;
+
+} 
+#logo{
+    background-image: url(../Day1/wine1.jpg);
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    
+}
+.link{
+
+    height: 100px;
+    width: 100px;
+     display: flex;
+    background-color: black;
+     list-style: none;
+     flex-direction: row; 
+     display: flex;
+}
+.bgimage{
+    /* background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/e89c9679-2f5f-491d-924c-c58924a8ee4b/8ec27a1d-02ce-4489-b320-a95106906f5d/IN-en-20221121-popsignuptwoweeks-perspective_alpha_website_large.jpg); */
+    height:1000px;
+    width: 100%;
+}
+.section1{
+    height: 500px;
+    width:100%;
+    padding-top: 50px;
+
+}
+.article1{
+    width: 100%;
+    padding-left: 100px;
+    display: flex;
+    flex-direction: row;
+
+
+}
+.select1{
+    height: 50px;
+    /* width: 100px; */
+    padding-right: 500px;
+}
+#id{
+    
+
+}
+button{
+    background-color: red;
+    height: 50px;
+    width: 100px;
+
+}
+.input1{
+bottom: 100%;
+    height: 44px;
+    width: 200px;
+    
+}
+h1{
+    height: 200px;
+    color: aquamarine;
+    align: center;
+}
+.section2{
+    color: white;
+    width: 700px;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    left: 700px;
+    top:400px
+    
+}
+.section2 h1{
+    font-size: 50px;
+    line-height: 60px;
+}
+
+
+
+    
+
+    

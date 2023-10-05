@@ -1,0 +1,60 @@
+
+.card{
+    height: 700px;
+    width: 500px;
+    /* background-color:chartreuse; */
+    position: relative;
+    border-radius: 20px;
+    
+}
+.face{
+    width: 400px;
+    height: 400px;
+    background: rgb(239, 156, 156);
+    top: 100px;
+    left: 50px;
+    border-radius:50%;
+    position: absolute;
+}
+.eye{ 
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    border-radius: 50%;
+ position: absolute;
+    top: 80px;
+}
+.eye1{
+left: 20%;
+}
+.eye2{
+    right:20%;
+}
+.eyebowl{
+    width: 50px;
+    height: 500px;
+    background:blue;
+    border-radius: 50%;
+     position: absolute;
+    left: 28px;
+    top:28px
+
+}
+.smile{
+    width: 100px;
+    height: 50px;
+    background: #000;
+     position: absolute;
+    top: 250px;
+    left: 150px;
+    border-radius: 20px 20px 500px 500px;
+}
+.mouth{
+    background-color: rgb(18, 101, 173);
+    height: 10px;
+    width:50px;
+    position: absolute;
+    left: 25px;
+    top: 20px;
+    border-radius: 50px 50px 5px 5px;
+}
